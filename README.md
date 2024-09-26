@@ -1,0 +1,1 @@
+Implemented the basic structure of web page with the following HTML elements: One level 1 heading, one paragraph with a subheading (level 2 heading), one image, one unordered list using the <ul> element, and one link using the <a> element.
